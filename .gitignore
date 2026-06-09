@@ -1,0 +1,4 @@
+node_modules/
+.envg
+.DS_Store
+*.log
